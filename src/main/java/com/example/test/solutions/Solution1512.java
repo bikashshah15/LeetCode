@@ -1,4 +1,4 @@
-package com.example.test.array;
+package com.example.test.solutions;
 
 public class Solution1512 {
     /*

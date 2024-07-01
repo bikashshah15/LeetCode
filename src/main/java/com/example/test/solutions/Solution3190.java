@@ -1,6 +1,4 @@
-package com.example.test.array;
-
-import java.util.Arrays;
+package com.example.test.solutions;
 
 public class Solution3190 {
     /*
